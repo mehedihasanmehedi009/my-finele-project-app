@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Biryani",
+    "category": "Main Course",
+    "price": 240,
+    "currency": "BDT",
+    "rating": 4.8,
+    "available": true,
+    "prepTimeMins": 20
+  },
+  {
+    "id": 2,
+    "name": "Beef Tehari",
+    "category": "Main Course",
+    "price": 260,
+    "currency": "BDT",
+    "rating": 4.7,
+    "available": true,
+    "prepTimeMins": 15
+  },
+  {
+    "id": 3,
+    "name": "Morog Polao",
+    "category": "Main Course",
+    "price": 220,
+    "currency": "BDT",
+    "rating": 4.6,
+    "available": true,
+    "prepTimeMins": 18
+  },
+  {
+    "id": 4,
+    "name": "Crispy Chicken Burger",
+    "category": "Fast Food",
+    "price": 210,
+    "currency": "BDT",
+    "rating": 4.5,
+    "available": true,
+    "prepTimeMins": 12
+  },
+  {
+    "id": 5,
+    "name": "Cheese Pizza",
+    "category": "Fast Food",
+    "price": 450,
+    "currency": "BDT",
+    "rating": 4.7,
+    "available": true,
+    "prepTimeMins": 22
+  },
+  {
+    "id": 6,
+    "name": "French Fries",
+    "category": "Snacks",
+    "price": 120,
+    "currency": "BDT",
+    "rating": 4.4,
+    "available": true,
+    "prepTimeMins": 8
+  },
+  {
+    "id": 7,
+    "name": "Chicken Momo",
+    "category": "Snacks",
+    "price": 180,
+    "currency": "BDT",
+    "rating": 4.8,
+    "available": true,
+    "prepTimeMins": 14
+  },
+  {
+    "id": 8,
+    "name": "Cold Coffee",
+    "category": "Drinks",
+    "price": 130,
+    "currency": "BDT",
+    "rating": 4.6,
+    "available": false,
+    "prepTimeMins": 5
+  },
+  {
+    "id": 9,
+    "name": "Mango Lassi",
+    "category": "Drinks",
+    "price": 140,
+    "currency": "BDT",
+    "rating": 4.5,
+    "available": true,
+    "prepTimeMins": 6
+  },
+  {
+    "id": 10,
+    "name": "Mint Lemonade",
+    "category": "Drinks",
+    "price": 90,
+    "currency": "BDT",
+    "rating": 4.3,
+    "available": true,
+    "prepTimeMins": 5
+  },
+  {
+    "id": 11,
+    "name": "Chocolate Lava Cake",
+    "category": "Dessert",
+    "price": 180,
+    "currency": "BDT",
+    "rating": 4.9,
+    "available": true,
+    "prepTimeMins": 10
+  },
+  {
+    "id": 12,
+    "name": "Firni",
+    "category": "Dessert",
+    "price": 110,
+    "currency": "BDT",
+    "rating": 4.7,
+    "available": true,
+    "prepTimeMins": 10
+  }
+]
